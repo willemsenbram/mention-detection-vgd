@@ -7,14 +7,32 @@ Repository for the paper "[Detecting Referring Expressions in Visually Grounded 
 Please cite the following work if you use anything from this repository or from our paper:
 
 ```bibtex
-@misc{willemsen2025detectingreferringexpressionsvisually,
-      title={Detecting Referring Expressions in Visually Grounded Dialogue with Autoregressive Language Models}, 
-      author={Bram Willemsen and Gabriel Skantze},
-      year={2025},
-      eprint={2506.21294},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2506.21294}, 
+@inproceedings{willemsen-skantze-2025-detecting,
+    title = "Detecting Referring Expressions in Visually Grounded Dialogue with Autoregressive Language Models",
+    author = "Willemsen, Bram  and
+      Skantze, Gabriel",
+    editor = "Fei, Hao  and
+      Tu, Kewei  and
+      Zhang, Yuhui  and
+      Hu, Xiang  and
+      Han, Wenjuan  and
+      Jia, Zixia  and
+      Zheng, Zilong  and
+      Cao, Yixin  and
+      Zhang, Meishan  and
+      Lu, Wei  and
+      Siddharth, N.  and
+      {\O}vrelid, Lilja  and
+      Xue, Nianwen  and
+      Zhang, Yue",
+    booktitle = "Proceedings of the 1st Joint Workshop on Large Language Models and Structure Modeling (XLLM 2025)",
+    month = aug,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.xllm-1.6/",
+    pages = "49--60",
+    ISBN = "979-8-89176-286-2"
 }
 ```
 
