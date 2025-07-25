@@ -3,7 +3,7 @@
 > [!NOTE]  
 > We are in the process of adding the material described in our paper to this repo.
 
-Repository for the paper "[Detecting Referring Expressions in Visually Grounded Dialogue with Autoregressive Language Models](https://arxiv.org/abs/2506.21294)" to be presented at [XLLM @ ACL 2025](https://xllms.github.io/), the 1st Joint Workshop on Large Language Models and Structure Modeling. 
+Repository for the paper "[Detecting Referring Expressions in Visually Grounded Dialogue with Autoregressive Language Models](https://aclanthology.org/2025.xllm-1.6/)" to be presented at [XLLM @ ACL 2025](https://xllms.github.io/), the 1st Joint Workshop on Large Language Models and Structure Modeling. 
 Please cite the following work if you use anything from this repository or from our paper:
 
 ```bibtex
