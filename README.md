@@ -31,6 +31,7 @@ Please cite the following work if you use anything from this repository or from 
     address = "Vienna, Austria",
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2025.xllm-1.6/",
+    doi = "10.18653/v1/2025.xllm-1.6",
     pages = "49--60",
     ISBN = "979-8-89176-286-2"
 }
@@ -58,7 +59,7 @@ Figure 1 provides a visualization of the proposed generative approach.
 
 <div align="center"> <img src="mention_detection_diagram.png" width="90%" height="90%"><p>Figure 1: Visualization of the proposed mention detection method. The <b>Mention Detector</b> takes as input the most recent dialogue message, preceded by the available dialogue history, and autoregressively outputs an annotated reproduction of the last message while inserting mention span boundary tokens.</p></div>
 
-For more details, we refer the reader to our [paper](https://arxiv.org/abs/2506.21294).
+For more details, we refer the reader to our [paper](https://aclanthology.org/2025.xllm-1.6/).
 
 ***
 
